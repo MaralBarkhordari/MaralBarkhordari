@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**MaralBarkhordari/MaralBarkhordari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Maral Barkhordari**, a Data Scientist and Analyst with over six years of experience in the pharmaceutical and retail industries. I’m passionate about using **data-driven solutions** to solve business problems, optimize processes, and drive decision-making.
 
-Here are some ideas to get you started:
+- 🔍 I specialize in **data analysis, visualization, machine learning, statistical analysis and business insights** using Python, SQL, and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I hold:
+  - A **Data Science Certificate** from the University of Toronto.
+  - **Master of Science in Molecular Biotechnology and Bioinformatics** from the University of Milan, Italy.
+  - **Bachelor of Science in Cell and Molecular Biology** from the University of Tehran, Iran.
+- 🌟 Passionate about empowering businesses with data-driven decisions and solving real-world challenges.
+
+
+### 📫 Let's Connect:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maral-barkhordari)  
