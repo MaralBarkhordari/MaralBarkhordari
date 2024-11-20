@@ -2,10 +2,10 @@
 
 I'm **Maral Barkhordari**, a Data Scientist and Analyst with over six years of experience in the pharmaceutical and retail industries. I’m passionate about using **data-driven solutions** to solve business problems, optimize processes, and drive decision-making.
 
-- 🔍 I specialize in **data analysis, visualization, machine learning, statistical analysis and business insights** using Python, SQL, and Power BI.
+- 🔍 I specialize in **data analysis, visualization, machine learning, statistical analysis, deep learning and business insights** using Python, SQL, and Power BI and libraries (scikit-learn, numpy, panda, matplotlib, seaborn,TensorFlow and PyTorch).
 
 - 🎓 I hold:
-  - A **Data Science Certificate** from the University of Toronto.
+  - A **Data Science Certificate** from the University of Toronto, Canada.
   - **Master of Science in Molecular Biotechnology and Bioinformatics** from the University of Milan, Italy.
   - **Bachelor of Science in Cell and Molecular Biology** from the University of Tehran, Iran.
 - 🌟 Passionate about empowering businesses with data-driven decisions and solving real-world challenges.
