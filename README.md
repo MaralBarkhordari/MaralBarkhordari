@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Maral Barkhordari**, a Data Scientist and Analyst with over six years of experience in the pharmaceutical and retail industries. I’m passionate about using **data-driven solutions** to solve business problems, optimize processes, and drive decision-making.
+I'm **Maral Barkhordari**, a Data Analytics professional with over six years of experience in the pharmaceutical and retail industries. I’m passionate about using **data-driven solutions** to solve business problems, optimize processes, and drive decision-making.
 
 - 🔍 I specialize in **data analysis, visualization, machine learning, statistical analysis, deep learning and business insights** using Python, SQL, and Power BI and libraries (scikit-learn, numpy, panda, matplotlib, seaborn,TensorFlow and PyTorch).
 
