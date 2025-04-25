@@ -6,8 +6,8 @@ I'm **Maral Barkhordari**, a Data Analytics professional with experience in the 
 
 - 🎓 I hold:
   - A **Data Science Certificate** from the University of Toronto, Canada.
-  - **Master of Science in Molecular Biotechnology and Bioinformatics** from the University of Milan, Italy.
-  - **Bachelor of Science in Cell and Molecular Biology** from the University of Tehran, Iran.
+  - **Master of Science in Biotechnology and Bioinformatics** from the University of Milan, Italy.
+  - **Bachelor of Science in Biology** from the University of Tehran, Iran.
 - 🌟 Passionate about empowering businesses with data-driven decisions and solving real-world challenges.
 
 
